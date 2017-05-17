@@ -1,6 +1,6 @@
 
 
-This project is all about Analysing the Emergency 911 calls for Montgomery County, PA.
+This project is all about the  analysis of Emergency 911 calls for Montgomery County, PA.
 
 Description of the Data set:
 lat : String variable, Latitude - 
